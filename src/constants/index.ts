@@ -163,7 +163,7 @@ const projects = [
   {
     name: "E-commercial Web Server",
     description:
-      "A e-commerce backend server that handles authentication, menu updates, and customer orders.",
+      "An e-commerce backend server that handles authentication, menu updates, and customer orders.",
     tags: [
       {
         name: "go",
