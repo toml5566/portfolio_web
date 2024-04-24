@@ -39,7 +39,7 @@ const Navbar = () => {
           </NavigationMenuList>
         </NavigationMenu>
 
-        <NavigationMenu className="sm:hidden">
+        <NavigationMenu className="sm:hidden mr-5">
           <NavigationMenuList>
             <NavigationMenuItem>
               <NavigationMenuTrigger>
